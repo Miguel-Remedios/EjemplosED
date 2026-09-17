@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo07\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo06\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo05\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo04\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo08\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo03\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo02\main.cpp
+C:\Users\Usuario\Documents\codelite-amd64-17.0.0\Sesion1\Ejemplo01\main.cpp
