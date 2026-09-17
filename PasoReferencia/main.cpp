@@ -1,7 +1,19 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-int main(int argc, char **argv)
+void ejemplo (int a, int& b);
+
+int main(int argc, char** argv)
 {
-	printf("hello world\n");
-	return 0;
+    int x = 2, y = 4;
+    cout << "1. x = " << x << " y = " << y << endl;
+    ejemplo(x, y);
+    cout << "2. x = " << x << " y = " << y << endl;
+    return 0;
+}
+
+void ejemplo (int a, int& b)
+{
+    a = 5;
+    b = 8;
 }

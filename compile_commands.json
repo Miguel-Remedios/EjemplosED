@@ -1,33 +1,57 @@
 [{
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo07\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo07",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo07\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo06\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo06",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo06\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoReferencia\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoReferencia",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoReferencia\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoReferencia\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo05\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo05",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo05\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo12\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo04\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo04",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo04\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo09",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo09\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo08\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo08",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo08\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo03\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo03",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo03\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo06\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo02\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo02",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo02\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo05\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo01\\main.cpp",
-  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo01",
-  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo01\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\Sesion1\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo04\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo11\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo08\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo01\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo03\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo10\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo02\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]
