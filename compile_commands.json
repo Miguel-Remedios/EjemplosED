@@ -1,4 +1,36 @@
 [{
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\NodoPila.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\NodoPila.hpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\Pila.hpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\Pila.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Pilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\Persona.hpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\Persona.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos\\main.cpp",
   "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos",
   "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\PasoArgumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -18,6 +50,26 @@
   "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07\\main.cpp",
   "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07",
   "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\Cola.hpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\Cola.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\main.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\NodoCola.cpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas",
+  "command": "clang++ -c C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\NodoCola.hpp -o C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Colas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo06\\main.cpp",
   "directory": "C:\\Users\\Usuario\\Documents\\codelite-amd64-17.0.0\\EjemplosED\\Ejemplo06",
